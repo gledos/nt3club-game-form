@@ -27,7 +27,7 @@
   
   <style>
   * {
-    // font-family: 'Helvetica', sans-serif;
+    font-family: 'Helvetica', sans-serif;
   }
   .intro {
     min-width: 400px;
